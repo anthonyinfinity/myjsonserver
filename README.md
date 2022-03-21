@@ -24,7 +24,7 @@ github.com/anthonyininity/myjsonserver/main/db.json
 Get instantly a fake server, navigate to:
 
 ```
-my-json-server.typicode.com/anthonyininity/myjsonserver/posts/1
+my-json-server.typicode.com/anthonyininity/myjsonserver/devices/1
 ```
 
 ```json
