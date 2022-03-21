@@ -1,14 +1,16 @@
 {
-    "devices": [
-        {   
-            "id": "1",
+    "posts": [
+        {
+            "id": 1,
             "device-model": "test-c111-2bcde",
             "device-os": "next",
             "deviceid": "169.254.10.10",
             "host-name": "169.254.10.10",
             "domain-id": "1",
             "layoutLevel": 4
-
         }
-    ]
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
